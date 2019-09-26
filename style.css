@@ -8,7 +8,7 @@ body {
 
 html {
     font-size: 10px;
-    background-color: #a9a9a9;
+    background-color: rgba(0, 255, 0, 0.87);
 }
 
 body {
@@ -63,7 +63,7 @@ header {
 }
 
 body > * {
-    background-color: red;
+    background-color: rgba;
     padding: 1%;
 }
 
