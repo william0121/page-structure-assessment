@@ -8,7 +8,7 @@ body {
 
 html {
     font-size: 10px;
-    background-color: rgba(0, 255, 0, 0.87);
+    background-color: rgba(0, 255, 0, 0.872);
 }
 
 body {
@@ -74,8 +74,8 @@ article,
 aside,
 footer,
 section {
-    background-color: rgba(0, 255, 0, 0.5);
-    padding: 1%;
+    background-color: rgba(0, 255, 55, 0.925);
+    padding: 2%;
 }
 
 h1 {
